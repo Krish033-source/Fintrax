@@ -4,6 +4,11 @@
 Overview:
 AI Finance Manager is a personal project designed to help users track expenses, predict future spending, detect wasteful transactions, and suggest investment opportunities. The tool leverages AI and data analysis techniques to provide actionable financial insights.
 
+Contents:
+finance_dashboard.py file: Web interface for better Visualization
+Fintrax.py: Main ML code
+general_indian_expense_data.csv: Data of a general Indian person for model training
+
 Features:
 📊 Expense Analysis: Visualize spending patterns and identify top spending categories.
 📈 Future Expense Prediction: Uses ARIMA time series forecasting to estimate future expenses.
